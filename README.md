@@ -12,10 +12,10 @@ A sleek and modern calculator app with both dark and light mode themes, built fo
 ## 🎨 Screenshots
 
 ### Dark Mode
-![Dark Mode](./mnt/data/Dark-Mode.png)
+![Dark Mode](Dark-Mode.png)
 
 ### Light Mode
-![Light Mode](./mnt/data/Light-Mode.png)
+![Light Mode](Light-Mode.png)
 
 ## 🛠️ Installation
 
